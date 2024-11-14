@@ -15,12 +15,14 @@ The project consists of the two parts
    ```
    cd backend
    ```
-Install dependencie 
-    ```CMD
+Install dependencies
+
+    ```
     npm install
     ```
-Run 
-    ```CMD
+Run
+
+    ```
     npm run start:dev
     ```
 The server will be running at `http://localhost:3001
@@ -30,12 +32,15 @@ The server will be running at `http://localhost:3001
    ```
    cd client
    ```
-Install dependencie 
-    ```CMD
+Install dependencies
+
+    ```
     npm install
     ```
-Run 
-    ```CMD
+
+Run
+
+    ```
     npm run dev
     ```
 The server will be running at `http://localhost:3000
