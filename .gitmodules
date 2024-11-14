@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/oneharry/client-uri.git
+[submodule "backend-app"]
+	path = backend-app
+	url = https://github.com/oneharry/backend-uri.git
