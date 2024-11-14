@@ -17,38 +17,39 @@ The project consists of the two parts
    ```
 Install dependencies
 
-    ```
+    
     npm install
-    ```
+    
 Run
 
-    ```
+    
     npm run start:dev
-    ```
+    
+
 Test locally
 Run
-    ```
+    
     npm run test
-    ```
+    
 
 The server will be running at `http://localhost:3001
 
 
 ### Frontend
-   ```
+   
    cd client
-   ```
+   
 Install dependencies
 
-    ```
+    
     npm install
-    ```
+    
 
 Run
 
-    ```
+    
     npm run dev
-    ```
+    
 The server will be running at `http://localhost:3000
 
 
