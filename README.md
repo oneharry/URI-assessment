@@ -36,8 +36,9 @@ The server will be running at http://localhost:3001
 
 
 ### Frontend
-   
+   ```
    cd URI-assessment/frontend
+   ```
    
 Install dependencies
 
