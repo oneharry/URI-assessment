@@ -8,12 +8,12 @@ The project consists of the two parts
 ## Installation
  - Clone the repository if you haven't already:
     ```CMD
-    git clone https://github.com/oneharry/URI-assessment.git
+    git clone --recurse-submodules https://github.com/oneharry/URI-assessment.git
     ```
 
 ### Backend
    ```
-   cd backend
+   cd URI-assessment/backend-app
    ```
 Install dependencies
 
@@ -37,12 +37,12 @@ The server will be running at http://localhost:3001
 
 ### Frontend
    
-   cd client
+   cd URI-assessment/frontend
    
 Install dependencies
 
     
-    npm install
+    npm install -force
     
 
 Run
