@@ -42,6 +42,10 @@ The server will be running at http://localhost:3001
    
 Install dependencies
 
+    npm install
+
+or
+
     
     npm install -force
     
