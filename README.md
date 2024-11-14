@@ -25,6 +25,12 @@ Run
     ```
     npm run start:dev
     ```
+Test locally
+Run
+    ```
+    npm run test
+    ```
+
 The server will be running at `http://localhost:3001
 
 
