@@ -32,7 +32,7 @@ Run
     npm run test
     
 
-The server will be running at `http://localhost:3001
+The server will be running at http://localhost:3001
 
 
 ### Frontend
@@ -50,7 +50,7 @@ Run
     
     npm run dev
     
-The server will be running at `http://localhost:3000
+The server will be running at http://localhost:3000
 
 
 
