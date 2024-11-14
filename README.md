@@ -50,7 +50,7 @@ Run
     
     npm run dev
     
-The server will be running at http://localhost:3000
+The client will be running at http://localhost:3000
 
 
 
